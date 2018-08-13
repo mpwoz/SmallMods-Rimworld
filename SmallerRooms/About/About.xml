@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Smaller Rooms</name>
+	<author>mpwoz</author>
+	<targetVersion>0.19.0</targetVersion>
+	<description>
+Halves the default vanilla room size requirements. Pawns will be happier with smaller spaces, allowing you to build more compactly.
+	</description>
+</ModMetaData>

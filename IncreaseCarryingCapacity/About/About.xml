@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>10x Carrying Capacity</name>
+	<author>mpwoz</author>
+	<targetVersion>0.19.0</targetVersion>
+	<description>
+Increases default pawn carrying capacity to 750 (still affected by things like wounds/bionics/etc.)
+        
+Inspired by Strong Back by Indeed: https://steamcommunity.com/sharedfiles/filedetails/?id=826483181 but this one doesn't override the core def
+	</description>
+</ModMetaData>
