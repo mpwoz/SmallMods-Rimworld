@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>EasierExpectations</identifier>
+    <version>1.0.0</version>
+    <suggests>
+        <li>1477183263</li> <!-- 10x carrying capacity -->
+        <li>1483544020</li> <!-- Durable clothes -->
+    </suggests>
+    <showCrossPromotions>true</showCrossPromotions>
+    <manifestUri>https://raw.githubusercontent.com/mpwoz/SmallMods-Rimworld/master/EasierExpectations/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/mpwoz/SmallMods-Rimworld/releases/latest</downloadUri>
+</Manifest>

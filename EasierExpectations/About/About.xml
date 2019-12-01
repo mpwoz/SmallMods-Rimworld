@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Easier Expectations</name>
+    <author>mpwoz</author>
+    <SupportedVersions>
+        <li>
+            1.0
+        </li>
+    </SupportedVersions>
+    <description>
+        Makes the mood buff from expectations easier, by still giving a mood bonus even at "sky high" level of wealth.
+    </description>
+</ModMetaData>
