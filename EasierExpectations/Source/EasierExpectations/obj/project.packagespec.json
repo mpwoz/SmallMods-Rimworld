@@ -10,13 +10,13 @@
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netcoreapp2.2"
+      "net35"
     ],
     "sources": {
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
-      "netcoreapp2.2": {
+      "net35": {
         "projectReferences": {}
       }
     },
@@ -27,20 +27,6 @@
     }
   },
   "frameworks": {
-    "netcoreapp2.2": {
-      "dependencies": {
-        "Microsoft.NETCore.App": {
-          "suppressParent": "All",
-          "target": "Package",
-          "version": "[2.2.0-preview3-27014-02, )",
-          "autoReferenced": true
-        }
-      },
-      "imports": [
-        "net461"
-      ],
-      "assetTargetFallback": true,
-      "warn": true
-    }
+    "net35": {}
   }
 }

@@ -9,13 +9,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8A76251-C909-46E7-ADE6-F28CC9C9D0F7/db/98f259b5/ExpectationsUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EasierExpectationsMod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8A76251-C909-46E7-ADE6-F28CC9C9D0F7/67/dedb8ab1/ThoughtWorker_Expectations.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8A76251-C909-46E7-ADE6-F28CC9C9D0F7/8d/d8554d40/Alert_NeedWarden.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/F8A76251-C909-46E7-ADE6-F28CC9C9D0F7/82/4324da2f/Assembly-CSharp.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/EasierExpectations.csproj" />
+        <option value="$PROJECT_DIR$/EasierExpectationsMod.cs" />
       </list>
     </option>
   </component>
@@ -26,6 +30,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,13 +71,16 @@
       <option name="presentableId" value="Default" />
       <updated>1575388527479</updated>
       <workItem from="1575388531192" duration="788000" />
+      <workItem from="1575389795084" duration="173000" />
+      <workItem from="1575390181712" duration="232000" />
+      <workItem from="1575390438646" duration="1177000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
