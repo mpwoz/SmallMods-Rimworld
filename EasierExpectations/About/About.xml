@@ -8,6 +8,13 @@
         </li>
     </SupportedVersions>
     <description>
-        Makes the mood buff from expectations easier, by still giving a mood bonus even at "sky high" level of wealth.
+        Allows you to set the min and max "expectation" mood buffs. Want to make it easier? Increase the "min bonus"
+        to something higher than zero for a permanent mood bonus, even at sky high expectation level.
+        
+        Harder? Decrease the max bonus so your colonists start with less of a bonus at 'extremely low' expectations
+        when you're just starting out.
+        
+        Tweak the values however you wish, all intermediate steps are automatically calculated to be evenly spaced out
+        between the values you decide on.
     </description>
 </ModMetaData>
