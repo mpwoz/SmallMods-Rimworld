@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<EasierExpectations.MinMoodBonus.Title>Minimum mood bonus</EasierExpectations.MinMoodBonus.Title>
+	<EasierExpectations.MinMoodBonus.Desc>The mood each colonist gets at 'sky high' expectations level. Vanilla: 0. Change requires restart.</EasierExpectations.MinMoodBonus.Desc>
+
+	<EasierExpectations.MaxMoodBonus.Title>Maximum mood bonus</EasierExpectations.MaxMoodBonus.Title>
+	<EasierExpectations.MaxMoodBonus.Desc>The mood each colonist gets at 'extremely low' expectations level. Vanilla: 30. Change requires restart.</EasierExpectations.MaxMoodBonus.Desc>
+</LanguageData>
